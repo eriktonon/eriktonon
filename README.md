@@ -32,3 +32,6 @@
       <img width="27px" style="margin-inside: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/openshift.png"/>
       
     </p>
+    
+    [![Erik Tonon GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriktonon&show_icons=true)](https://github.com/eriktonon)
+
