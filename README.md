@@ -9,7 +9,7 @@
 <h3>  About Me!</h3>
 
   🙋🏻‍♂️ &nbsp; Exploring new technologies, automate tasks and share knowledge.  
-  💼 &nbsp; Working as a SRE/DevOps at [Tembixi](https://tembici.com.br/).
+  💼 &nbsp; Working as a SRE/DevOps at [Tembici](https://tembici.com.br/).
 
 ## Languages and Tools
 
