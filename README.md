@@ -9,6 +9,7 @@
 <h3>  About Me!</h3>
 
   🙋🏻‍♂️ &nbsp; Exploring new technologies, automate tasks and share knowledge.  
+  🙋🏻‍♂️ &nbsp; I have a degree in internet systems and a cloud computing specialization student.  
   💼 &nbsp; Working as a SRE/DevOps at [Tembici](https://tembici.com.br/).
 
 ## Languages and Tools
