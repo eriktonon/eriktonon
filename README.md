@@ -2,7 +2,7 @@
 <div align="center">
 <h2>I'm Erik Tonon</h2>
 
-[![Linkedin](https://img.shields.io/badge/Erik%20-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erik-tonon-83817b145/)
+[![Linkedin](https://img.shields.io/badge/Erik%20-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erik-tonon)
 
 
 
