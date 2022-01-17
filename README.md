@@ -10,7 +10,7 @@
 
   🙋🏻‍♂️ &nbsp; Exploring new technologies, automate tasks and share knowledge.  
   🙋🏻‍♂️ &nbsp; I have a degree in internet systems and a cloud computing specialization student.  
-  💼 &nbsp; Working as a SRE/DevOps at [IBM](https://ibm.com/).
+  💼 &nbsp; Working as a Cloud Engineer | SRE at [IBM](https://ibm.com/).
 
 ## Languages and Tools
 
