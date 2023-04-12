@@ -8,9 +8,12 @@
 
 <h3>  About Me!</h3>
 
-  🙋🏻‍♂️ &nbsp; Exploring new technologies, automate tasks and share knowledge.  
-  🙋🏻‍♂️ &nbsp; I have a degree in internet systems and a cloud computing specialization student.  
-  💼 &nbsp; Working as a Cloud Engineer | SRE at [IBM](https://ibm.com/).
+  🙋🏻‍♂️ &nbsp; Hi everyone! My name is Erik, I'm a married father of three girls and I'm passionate about open-source, knowledge sharing, and communities.
+
+  🙋🏻‍♂️ &nbsp; I have a degree in Information Systems, a postgraduate degree in Cloud Computing Projects, and currently pursuing an MBA in Finance, Investments, and Banking. With nine years of experience, I have certifications in Cloud AWS, IBM Cloud, SRE, DevOps, and Scrum. My specialties include problem-solving, Linux, Containers, DevOps, and many others. I've worked with big names such as Gazin.com.
+  br, Zup IT Innovation, AGI Bank, Perfect Flight, IBM, and currently at BTG Pactual.
+  
+  💼 &nbsp; Working as Observability Architect | SRE at [BTG Pactual](https://www.btgpactualdigital.com/).
 
 ## Languages and Tools
 
@@ -19,11 +22,15 @@
       <img width="22px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/php.png"/>
       <img width="22px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/python.png"/>
       <img width="22px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/shell.jpg"/>
+       <img width="22px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/java.jpg"/>
     </p>
     
 - Tools
     <p float="left">
       <img width="23px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/git.png"/>
+      <img width="23px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/elk.png"/>
+      <img width="23px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/k8s.png"/>
+      <img width="23px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/tantivy.png"/>
       <img width="27px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/docker.png"/>
       <img width="27px" style="margin-inside: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/zend.png"/>
       <img width="27px" style="margin-inside: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/flask.png"/>
