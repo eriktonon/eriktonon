@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/Erik%20-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erik-tonon)
 
-
+![Snake animation](https://github.com/eriktonon/eriktonon/blob/output/github-contribution-grid-snake.svg)
 
 <h3>  About Me!</h3>
 
@@ -17,29 +17,40 @@
 
 ## Languages and Tools
 
-- languages
-    <p float="left">
-      <img width="22px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/php.png"/>
-      <img width="22px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/python.png"/>
-      <img width="22px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/shell.jpg"/>
-       <img width="22px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/java.jpg"/>
-    </p>
-    
-- Tools
-    <p float="left">
-      <img width="23px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/git.png"/>
-      <img width="23px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/elk.png"/>
-      <img width="23px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/k8s.png"/>
-      <img width="23px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/tantivy.png"/>
-      <img width="27px" style="margin-right: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/docker.png"/>
-      <img width="27px" style="margin-inside: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/zend.png"/>
-      <img width="27px" style="margin-inside: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/flask.png"/>
-      <img width="27px" style="margin-inside: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/linux.png"/>
-      <img width="27px" style="margin-inside: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/prometheus.png"/>
-      <img width="27px" style="margin-inside: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/ansible.png"/>
-      <img width="27px" style="margin-inside: 10px;" src="https://raw.githubusercontent.com/eriktonon/eriktonon/master/resources/images/openshift.png"/>
-      
-    </p>
-    
-    [![Erik Tonon GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriktonon&show_icons=true)](https://github.com/eriktonon)
+<img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/svg/aws.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/google-cloud-platform.png" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/azure.png" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ibm.svg" width="40" height="40"  />
 
+<img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/terraform.png" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ansible.svg" width="40" height="40"  />
+
+<img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/svg/nomad.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/redhatopenshift.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"  />
+
+<img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/opensearch.png" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/elastic.png" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="40" height="40"  />
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/redhat.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/apache.png" width="40" height="40" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"  />
+
+
+### 📊 GitHub Stats:
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriktonon&hide=html&layout=compact" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=eriktonon&hide=stars"/></td>
+    </tr>   
+</table>
+</center> 
