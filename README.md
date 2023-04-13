@@ -42,13 +42,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"  />
 
+<!-- [![Erik Tonon GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriktonon&show_icons=true)](https://github.com/eriktonon) -->
+
+
 
 ### 📊 GitHub Stats:
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriktonon&hide=html&layout=compact" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=eriktonon&hide=stars"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriktonon&show=html&layout=compact" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=eriktonon&show=stars"/></td>
     </tr>   
 </table>
 </center> 
