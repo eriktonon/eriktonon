@@ -4,8 +4,6 @@
 
 [![Linkedin](https://img.shields.io/badge/Erik%20-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erik-tonon)
 
-![Snake animation](https://github.com/eriktonon/eriktonon/blob/output/github-contribution-grid-snake.svg)
-
 <h3>  About Me!</h3>
 
   🙋🏻‍♂️ &nbsp; Hi everyone! My name is Erik, I'm a married father of three girls and I'm passionate about open-source, knowledge sharing, and communities.
