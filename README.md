@@ -11,7 +11,7 @@
   🙋🏻‍♂️ &nbsp; I have a degree in Information Systems, a postgraduate degree in Cloud Computing Projects, and currently pursuing an MBA in Finance, Investments, and Banking. With nine years of experience, I have certifications in Cloud AWS, IBM Cloud, SRE, DevOps, and Scrum. My specialties include problem-solving, Linux, Containers, DevOps, and many others. I've worked with big names such as Gazin.com.
   br, Zup IT Innovation, AGI Bank, Perfect Flight, IBM, and currently at BTG Pactual.
   
-  💼 &nbsp; Working as Observability Architect | SRE at [BTG Pactual](https://www.btgpactualdigital.com/).
+  💼 &nbsp; Working as Cloud Architect | SRE at [Tienda Nube](TiendaNube).
 
 ## Languages and Tools
 
