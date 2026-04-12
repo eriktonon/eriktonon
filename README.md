@@ -62,7 +62,9 @@ Today I operate independently, providing specialized consulting services to sele
 
 <table>
   <tr>
-    <td><img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eriktonon&theme=default" /></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,java,bash,terraform,ansible,kubernetes,docker,linux&perline=4" />
+    </td>
     <td><img width="495px" src="https://streak-stats.demolab.com/?user=eriktonon&hide_border=true" /></td>
   </tr>
 </table>
