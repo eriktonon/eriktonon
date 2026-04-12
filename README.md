@@ -1,19 +1,33 @@
 
 <div align="center">
-<h2>I'm Erik Tonon</h2>
 
-[![Linkedin](https://img.shields.io/badge/Erik%20-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erik-tonon)
+<h1>Erik Tonon</h1>
 
-<h3>  About Me!</h3>
+<p>
+  <a href="https://www.linkedin.com/in/erik-tonon">
+    <img src="https://img.shields.io/badge/LinkedIn-Erik%20Tonon-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Role-Cloud%20Architect%20%7C%20SRE-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Architecture%20Patterns%20%26%20AI-blueviolet?style=flat-square" />
+</p>
 
-  🙋🏻‍♂️ &nbsp; Hi everyone! My name is Erik, I'm a married father of three girls and I'm passionate about open-source, knowledge sharing, and communities.
+---
 
-  🙋🏻‍♂️ &nbsp; I have a degree in Information Systems, a postgraduate degree in Cloud Computing Projects, and currently pursuing an MBA in Finance, Investments, and Banking. With nine years of experience, I have certifications in Cloud AWS, IBM Cloud, SRE, DevOps, and Scrum. My specialties include problem-solving, Linux, Containers, DevOps, and many others. I've worked with big names such as Gazin.com.
-  br, Zup IT Innovation, AGI Bank, Perfect Flight, IBM, and currently at BTG Pactual.
-  
-  💼 &nbsp; Working as Cloud Architect | SRE at [Tienda Nube](TiendaNube).
+### 👨‍💻 About Me
 
-## Languages and Tools
+Hi, I'm **Erik** — a married father of three girls, passionate about open-source, knowledge sharing, and communities.
+
+I'm a **Cloud Architect & SRE** focused on designing **architecture patterns and best practices**, increasingly incorporating **AI-driven approaches** into platform engineering, infrastructure design, and DevOps workflows.
+
+I hold a degree in Information Systems, a postgraduate degree in Cloud Computing Projects, and an MBA in Finance, Investments, and Banking. With over nine years of experience, I'm certified in AWS, Azure, IBM Cloud, SRE, DevOps, and Scrum.
+
+Throughout my career I've worked with companies such as **Gazin**, **Zup IT Innovation**, **AGI Bank**, **Perfect Flight**, **IBM**, and **BTG Pactual**, among others.
+
+Today I operate independently, providing specialized consulting services to select corporations — including [**@edgesearchlabs**](https://github.com/edgesearchlabs) — where I architect scalable systems, define engineering standards, and embed intelligent automation into cloud-native environments.
+
+---
+
+### 🛠️ Languages and Tools
 
 <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/svg/aws.svg" width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/google-cloud-platform.png" width="40" height="40"  />
@@ -42,16 +56,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"  />
 
-<!-- [![Erik Tonon GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriktonon&show_icons=true)](https://github.com/eriktonon) -->
+---
 
+### 📊 GitHub Stats
 
-
-### 📊 GitHub Stats:
-<center>
 <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriktonon&show=html&layout=compact" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=eriktonon&show=stars"/></td>
-    </tr>   
+  <tr>
+    <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriktonon&show=html&layout=compact" /></td>
+    <td><img width="495px" src="https://github-readme-stats.vercel.app/api?username=eriktonon&show_icons=true&show=stars" /></td>
+  </tr>
 </table>
-</center> 
+
+---
+
+<sub>Architecture patterns · Best practices · AI-driven engineering · Cloud-native</sub>
+
+</div>
