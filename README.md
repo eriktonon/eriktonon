@@ -62,8 +62,8 @@ Today I operate independently, providing specialized consulting services to sele
 
 <table>
   <tr>
-    <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriktonon&layout=compact&langs_count=8" /></td>
-    <td><img width="495px" src="https://github-readme-stats.vercel.app/api?username=eriktonon&show_icons=true&count_private=true" /></td>
+    <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriktonon&layout=compact&langs_count=8&hide_border=true" /></td>
+    <td><img width="495px" src="https://streak-stats.demolab.com/?user=eriktonon&hide_border=true" /></td>
   </tr>
 </table>
 
