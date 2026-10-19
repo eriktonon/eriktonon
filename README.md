@@ -7,6 +7,9 @@
 *Mission-Critical Systems Architecture · Site Reliability Engineering (Build to Manage) · Internal Developer Platforms (IDP) · Regulated Banking AI*
 
 <p>
+  <a href="#-sponsor--open-source-support">
+    <img src="https://img.shields.io/badge/💖_Sponsor-Erik_Tonon-%23EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor Erik Tonon on GitHub" />
+  </a>
   <a href="https://eriktonon.com">
     <img src="https://img.shields.io/badge/Executive_Portfolio-eriktonon.com-%230F62FE?style=flat-square&logo=googlechrome&logoColor=white" alt="Executive Portfolio" />
   </a>
@@ -100,6 +103,29 @@ Currently serving as **Manager of Platform Engineering & Generative AI at IBM Co
   - [**IBM — License to Lead: First-Line Manager**](https://www.credly.com/badges/1476e693-b0da-4ca9-8232-1bc58510fea2) *(Credly Verified)*
   - [**Google — AI Professional Certificate**](https://www.credly.com/badges/05808bd0-1dcd-4b43-a27f-288193e82f39) *(Credly Verified)*
   - **Cloud, Infrastructure & Security**: AWS · Azure · IBM Cloud · Cisco CCNA R&S · Linux LPI · CompTIA Security+ · Docker · SRE & DevOps
+
+---
+
+## 💖 Sponsor & Open-Source Support
+
+If my open-source reference architectures (**Build to Manage v2.0**, **DORA & BTM Readiness Assessment**, **AI Tokenomics Calculator**, **EdgeSearch Observability**, or **OnionTalk**) help your engineering teams build more resilient systems, consider sponsoring ongoing research, public benchmarks, and community laboratories:
+
+<div align="center">
+  <p>
+    <a href="https://github.com/sponsors/eriktonon">
+      <img src="https://img.shields.io/badge/💖_Sponsor_Erik_Tonon-GitHub_Sponsors-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Erik Tonon on GitHub Sponsors" />
+    </a>
+    <a href="https://score.eriktonon.com">
+      <img src="https://img.shields.io/badge/📊_Run_Free_BTM_Diagnostic-score.eriktonon.com-%230F62FE?style=for-the-badge" alt="Platform Readiness Score" />
+    </a>
+  </p>
+</div>
+
+| Network | Direct Open-Source Contribution Address |
+| :--- | :--- |
+| **Bitcoin (`BTC`)** | `bc1q0hr95ay33rtazfepg64yddf52q3yqh7ud83cza` |
+| **Ethereum (`ETH`)** | `0xE69FCE4Fa35CF3bd98F496337b1eA223270b2c92` |
+| **Solana (`SOL`)** | `3E8L1Hdqe7Xk6GCrzHbtY5sReAfLFc9CdwgZxP7qaoHq` |
 
 ---
 
