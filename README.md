@@ -55,7 +55,7 @@ Currently serving as **Manager of Platform Engineering & Generative AI at IBM Co
 | **2021 — Present** | **Founder & Principal Architect** | **[EdgeSearch Labs](https://github.com/edgesearchlabs)** | Boutique consultancy and software ecosystem focused on large-scale search (**Elasticsearch / OpenSearch**), distributed observability (**OpenTelemetry**), **EdgePortal IDP**, and Cloud FinOps (up to 40% infrastructure cost reduction for clients including TIVIT, SEBRAE, SASI, and GDM Seeds). |
 | **2020 — 2021** | **Observability & SRE Engineer** | **Tier-1 Financial Conglomerate** | Continuous monitoring on **Red Hat OpenShift**, Prometheus/Grafana RED & Golden Signals dashboards, and proactive SLA anomaly detection prior to customer impact. |
 | **2018 — 2020** | **Software & DevOps Engineer** | **Holding Gazin** | Architected **API Pagador** (multi-acquirer payment gateway with deterministic transactional split) and **NullRisk** (B2B wholesale credit scoring & CDC platform), plus enterprise Jenkins/GitLab CI/CD pipelines. |
-| **2021** | **Creator & Technical Mentor** | **[Projeto Acelera DevOps](https://github.com/Acelera-DevOps)** | Community mentorship initiative training engineers in Linux, Git, Shell, Python, AWS ECS Fargate, CI/CD, and Terraform Infrastructure as Code. |
+| **2021 — 2024** | **Creator, MBA Professor & Technical Mentor** | **[Acelera DevOps & MBA Academy](https://github.com/Acelera-DevOps)** | Community mentorship & postgraduate MBA faculty training engineers in Cloud-Native IaC (`Terraform`), AWS ECS Fargate, Multi-AZ VPC, Zero-Trust IAM (`OIDC`/`PoLP`), `Istio` Service Mesh, and SRE Observability. |
 
 ---
 
@@ -78,7 +78,9 @@ Currently serving as **Manager of Platform Engineering & Generative AI at IBM Co
 - **[`eriktonon/opentelemetry-demo`](https://github.com/eriktonon/opentelemetry-demo)** — **Distributed Observability Reference Architecture**: Polyglot microservice topology instrumented with OpenTelemetry, Data Prepper, Prometheus, and OpenSearch for end-to-end trace and RED metric correlation.
 - **[`eriktonon/openclaude`](https://github.com/eriktonon/openclaude)** — **Autonomous Coding-Agent CLI**: Terminal-first multi-provider agent harness supporting OpenAI, Gemini, DeepSeek, Ollama, and GitHub Models with Model Context Protocol (MCP) tool execution.
 - **[`edgesearchlabs/airllm`](https://github.com/edgesearchlabs/airllm)** — **Layer-Wise LLM Inference Optimization**: Execution of 70B+ parameter large language models on constrained GPU memory via shard-by-shard layer streaming and VRAM optimization.
-- **[`Acelera-DevOps/terraform-aws-ecs`](https://github.com/Acelera-DevOps/terraform-aws-ecs)** — **Cloud-Native IaC Reference**: Modular Terraform architecture for AWS ECS Fargate, multi-AZ VPC isolation, security groups, and Principle of Least Privilege (PoLP).
+- **[`Acelera-DevOps/terraform-aws-ecs`](https://github.com/Acelera-DevOps/terraform-aws-ecs)** — **Cloud-Native IaC Reference**: Modular 3-layer Terraform architecture for AWS ECS Fargate, Multi-AZ VPC isolation, IAM Principle of Least Privilege (PoLP), Auto-Scaling, and Spring Boot 3.3 / Java 21.
+- **[`Acelera-DevOps/terraform-aws-vpc`](https://github.com/Acelera-DevOps/terraform-aws-vpc)** & **[`Acelera-DevOps/terraform-aws-iam`](https://github.com/Acelera-DevOps/terraform-aws-iam)** — **Zero-Trust AWS Network & Identity Modules**: Multi-AZ Public/Private/Database VPC with Flow Logs + Keyless GitHub OIDC Federation and IAM Permissions Boundaries.
+- **[`Acelera-DevOps/observability-stack`](https://github.com/Acelera-DevOps/observability-stack)** & **[`Acelera-DevOps/istio-lab`](https://github.com/Acelera-DevOps/istio-lab)** — **SRE Golden Signals & Service Mesh Labs**: OpenTelemetry Collector + Prometheus/Grafana/Loki/Tempo Multi-Burn-Rate SLO stack and Istio Canary Rollouts + `STRICT` mTLS on Kubernetes.
 
 ---
 
